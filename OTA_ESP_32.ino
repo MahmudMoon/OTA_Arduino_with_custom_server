@@ -32,6 +32,7 @@ void setup() {
   checkForUpdates();
 }
 
+
 void loop() {
   delay(1000); // Check every 10 seconds (not recommended for production)
 }
